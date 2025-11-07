@@ -1,1 +1,7 @@
-theme = 'ananke'
+theme = 'PaperMod'
+
+[params]
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  defaultTheme = "auto"
